@@ -1,6 +1,4 @@
-# Kelompok 7 Basis Data 
-
-## Tema Pengelolaan Data Kas RT
+# Kelompok 7 Basis Data Pengelolaan Data Kas RT
 
 ```
 nama Anggota :
@@ -11,7 +9,7 @@ nama Anggota :
 5. Mizar
 
 ```
-### 1. Stuktur ER-D (Entity Relationship - Diagram)
+## 1. Stuktur ER-D (Entity Relationship - Diagram)
 
 ![erd](foto/erd.jpg)
 
@@ -23,29 +21,29 @@ penjelasan
 * entitas data transaksi iuran memiliki relationship"arsip" many to one pada entitas laporan keuangan 
 
 ```
-### 2. membuat DDL (Data Definition Language)
+## 2. membuat DDL (Data Definition Language)
 
 ```
 untuk tampilan code silahkan klik diatas
 
 ```
-### 3. SQL CRUD (create, read, update, and delete)
+## 3. SQL CRUD (create, read, update, and delete)
 
-#### (.) Membuat tabel
+### create table/Membuat tabel
 
-##### * Buat Tabel Data Warga
+#### -Create Tabel Data Warga
 
 ![1](foto/1.png)
 
-##### * Buat Tabel Jenis iuran
+##### -Create Tabel Jenis iuran
 
 ![2](foto/2.png)
 
-##### * Buat Tabel transaksi Pembayaran
+##### -Create Tabel transaksi Pembayaran
 
 ![3](foto/3.png)
 
-##### * Buat Tabel laporan transaksi pembayaran
+##### -create Tabel laporan transaksi pembayaran
 
 ![4](foto/4.png)
 
