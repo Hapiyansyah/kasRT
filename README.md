@@ -63,11 +63,11 @@ untuk tampilan code silahkan klik diatas
 
 ### - Update Data Tabel Data Warga
 
-!
+![T11](poto/T11.png)
 
 ### - Delete Data Tabel Data Warga 
 
-!
+![T12](poto/T12.png)
 
 ### 4. SQL Join (joining table)
 
