@@ -61,6 +61,14 @@ untuk tampilan code silahkan klik diatas
 
 ![T10](poto/T10.png)
 
+### - Update Data Tabel Data Warga
+
+!
+
+### - Delete Data Tabel Data Warga 
+
+!
+
 ### 4. SQL Join (joining table)
 
 ```
