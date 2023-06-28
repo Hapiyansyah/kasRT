@@ -9,7 +9,7 @@ nama Anggota :
 5. Mizar
 
 ```
-## 1. Stuktur ER-D (Entity Relationship - Diagram)
+## 1.Stuktur ER-D (Entity Relationship - Diagram)
 
 ![erd](foto/erd.jpg)
 
@@ -21,40 +21,45 @@ penjelasan
 * entitas data transaksi iuran memiliki relationship"arsip" many to one pada entitas laporan keuangan 
 
 ```
-## 2. membuat DDL (Data Definition Language)
+## 2.membuat DDL (Data Definition Language)
 
 ```
 untuk tampilan code silahkan klik diatas
 
 ```
-## 3. SQL CRUD (create, read, update, and delete)
+## 3.SQL CRUD (Create, Read, Update, and Delete)
 
-### create table/Membuat tabel
-
-#### -Create Tabel Data Warga
+### - Create Tabel Data Warga
 
 ![P3](poto/P3.png)
 
-##### -Create Tabel Jenis iuran
+### - Create Tabel Jenis Iuran
 
 ![P4](poto/P4.png)
 
-##### -Create Tabel transaksi Pembayaran
+### - Create Tabel Transaksi Iuran
 
 ![P5](poto/P5.png)
 
-##### -create Tabel laporan transaksi pembayaran
+### - Create Tabel Laporan Transaksi 
 
 ![P6](poto/P6.png)
 
-#### (.) Isi data dari masing masing tabel
-
+### - Read Tabel Data Warga 
 
 ![P7](poto/P7.png)
-![P8](poto/P8.png)
-![P9](poto/P9.png)
-![P10](poto/P10.png)
 
+### - Read Tabel Jenis Iuran
+
+![P8](poto/P8.png)
+
+### - Read Tabel Transaksi Iuran
+
+![P9](poto/P9.png)
+
+### - Read Tabel Laporan Transaksi
+
+![P10](poto/P10.png)
 
 ### 4. SQL Join (joining table)
 
