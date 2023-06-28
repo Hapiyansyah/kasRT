@@ -33,27 +33,27 @@ untuk tampilan code silahkan klik diatas
 
 #### -Create Tabel Data Warga
 
-![P1](poto/P1.png)
+![P3](poto/P3.png)
 
 ##### -Create Tabel Jenis iuran
 
-![P2](poto/P2.png)
+![P4](poto/P4.png)
 
 ##### -Create Tabel transaksi Pembayaran
 
-![P3](poto/P3.png)
+![P5](poto/P5.png)
 
 ##### -create Tabel laporan transaksi pembayaran
 
-![P4](poto/P4.png)
+![P6](poto/P6.png)
 
 #### (.) Isi data dari masing masing tabel
 
 
-![P5](poto/P5.png)
-![6](foto/6.png)
-![7](foto/7.png)
-![8](foto/8.png)
+![P7](poto/P7.png)
+![P8](poto/P8.png)
+![P9](poto/P9.png)
+![P10](poto/P10.png)
 
 
 ### 4. SQL Join (joining table)
