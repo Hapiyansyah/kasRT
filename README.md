@@ -5,7 +5,7 @@ nama Anggota :
 1. Rizky s.f (312210686) ketua
 2. M.Hapiyansyah (312210243)
 3. Raja (312210
-4. Faiz (312210
+4. Faiz (312210223) 
 5. Mizar (312210
 
 ```
