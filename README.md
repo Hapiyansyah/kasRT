@@ -33,19 +33,19 @@ untuk tampilan code silahkan klik diatas
 
 #### -Create Tabel Data Warga
 
-![1](foto/1.png)
+![1](poto/1.png)
 
 ##### -Create Tabel Jenis iuran
 
-![2](foto/2.png)
+![2](poto/2.png)
 
 ##### -Create Tabel transaksi Pembayaran
 
-![3](foto/3.png)
+![3](poto/3.png)
 
 ##### -create Tabel laporan transaksi pembayaran
 
-![4](foto/4.png)
+![4](poto/4.png)
 
 #### (.) Isi data dari masing masing tabel
 
