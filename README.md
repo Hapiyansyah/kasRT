@@ -11,14 +11,15 @@ nama Anggota :
 ```
 ## 1.Stuktur ER-D (Entity Relationship - Diagram)
 
-![erd](e-rd/erd.jpg)
+![erd](ER-D/erd.jpg)
 
 ```
-kami membuat 4 entitas , entitas"nya adalah Data warga, Jenis iuran, transaksi iuran dan laporan transaksi.
-penjelasan
-* entitas data warga memiliki relationship "bayar" many to many pada entitas data transaksi iuran,
-* entitas jenis iuran memiliki relationship "ragam/jenis" one to many pada entitas data transaksi iuran,
-* entitas data transaksi iuran memiliki relationship"arsip" many to one pada entitas laporan keuangan 
+ Ada 4 entitas pada data pengelolaan kas RT , entitas"ny adalah Data warga, Jenis iuran, transaksi iuran dan laporan transaksi.
+
+* entitas data warga memiliki relationship "bayar" many to many pada entitas data transaksi iuran, 
+* entitas jenis iuran memiliki relationship "ragam/jenis" one to many pada entitas data transaksi iuran, 
+* entitas data transaksi iuran memiliki relationship"arsip" many to one pada entitas laporan keuangan
+
 
 ```
 ## 2.Membuat DDL (Data Definition Language)
