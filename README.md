@@ -31,35 +31,35 @@ untuk tampilan code silahkan klik diatas
 
 ### - Create Tabel Data Warga
 
-![P3](poto/P3.png)
+![T3](poto/T3.png)
 
 ### - Create Tabel Jenis Iuran
 
-![P4](poto/P4.png)
+![T4](poto/T4.png)
 
 ### - Create Tabel Transaksi Iuran
 
-![P5](poto/P5.png)
+![T5](poto/T5.png)
 
 ### - Create Tabel Laporan Transaksi 
 
-![P6](poto/P6.png)
+![T6](poto/T6.png)
 
 ### - Read Tabel Data Warga 
 
-![P7](poto/P7.png)
+![T7](poto/T7.png)
 
 ### - Read Tabel Jenis Iuran
 
-![P8](poto/P8.png)
+![T8](poto/T8.png)
 
 ### - Read Tabel Transaksi Iuran
 
-![P9](poto/P9.png)
+![T9](poto/T9.png)
 
 ### - Read Tabel Laporan Transaksi
 
-![P10](poto/P10.png)
+![T10](poto/T10.png)
 
 ### 4. SQL Join (joining table)
 
