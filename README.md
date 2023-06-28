@@ -11,7 +11,7 @@ nama Anggota :
 ```
 ## 1.Stuktur ER-D (Entity Relationship - Diagram)
 
-![erd](foto/erd.jpg)
+![erd](e-rd/erd.jpg)
 
 ```
 kami membuat 4 entitas , entitas"nya adalah Data warga, Jenis iuran, transaksi iuran dan laporan transaksi.
