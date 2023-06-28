@@ -21,7 +21,7 @@ penjelasan
 * entitas data transaksi iuran memiliki relationship"arsip" many to one pada entitas laporan keuangan 
 
 ```
-## 2.membuat DDL (Data Definition Language)
+## 2.Membuat DDL (Data Definition Language)
 
 ```
 untuk tampilan code silahkan klik diatas
