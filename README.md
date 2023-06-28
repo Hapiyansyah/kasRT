@@ -2,11 +2,11 @@
 
 ```
 nama Anggota :
-1. Rizky s.f (ketua)
-2. M.Hapiyansyah
-3. Raja (luffy op(nama github))
-4. Faiz 
-5. Mizar
+1. Rizky s.f (312210 ketua
+2. M.Hapiyansyah (312210243)
+3. Raja (312210
+4. Faiz (312210
+5. Mizar (312210
 
 ```
 ## 1.Stuktur ER-D (Entity Relationship - Diagram)
