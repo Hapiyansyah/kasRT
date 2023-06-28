@@ -63,7 +63,6 @@ untuk tampilan code silahkan klik diatas
 
 ### 4. SQL Join (joining table)
 
-
 ![9](foto/9.png)
 ![10](foto/10.png)
 ![11](foto/11.png)
