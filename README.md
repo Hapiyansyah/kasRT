@@ -2,11 +2,11 @@
 
 ```
 Nama Anggota :
-1. Rizky s.f (312210686) Ketua / Sesepuh
-2. M.Hapiyansyah (312210243)
-3. Raja H (312210235)
-4. Faiz (312210223) 
-5. Ryamizar (312210185)
+1. Rizky S.F (312210686 / LAPORAN) KETUA KELOMPOK 
+2. M.Hapiyansyah (312210243 / DDL-Script)
+3. Raja H (312210235 / ER-D)
+4. Faiz (312210223 / SQL JOIN)
+5. Ryamizar (312210185 / SQL CRUD)
 
 ```
 ## 1. Stuktur ER-D (Entity Relationship - Diagram)
