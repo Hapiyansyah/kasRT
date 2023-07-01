@@ -25,9 +25,10 @@ Nama Anggota :
 ## 2. DDL Script (Data Definition Language)
 
 ### Membuat Database
-```
+
 ![T1](poto/T1.png)
-```
+![T2](poto/T2.png)
+
 ## 3. SQL CRUD (Create, Read, Update, and Delete)
 
 ### - Create Tabel Data Warga
