@@ -14,52 +14,52 @@ Nama Anggota :
 ![erd](ER-D/erd.jpg)
 
 ```
- Ada 4 entitas pada data pengelolaan kas RT , entitas"ny adalah Data warga, Jenis iuran, transaksi iuran dan laporan transaksi.
+ Ada 4 entitas pada data pengelolaan kas RT, entitasnya adalah data warga, jenis iuran, transaksi iuran dan laporan transaksi.
 
-* entitas data warga memiliki relationship "bayar" many to many pada entitas data transaksi iuran, 
-* entitas jenis iuran memiliki relationship "ragam/jenis" one to many pada entitas data transaksi iuran, 
-* entitas data transaksi iuran memiliki relationship"arsip" many to one pada entitas laporan keuangan
-
+* Entitas data warga memiliki relationship "bayar" many to many pada entitas data transaksi iuran, 
+* Entitas jenis iuran memiliki relationship "ragam/jenis" one to many pada entitas data transaksi iuran, 
+* Entitas data transaksi iuran memiliki relationship"arsip" many to one pada entitas laporan keuangan.
 
 ```
 ## 2. DDL Script (Data Definition Language)
 
-### Membuat Database
+### - Membuat Database
 
 ![T1](poto/T1.png)
+
 ![T2](poto/T2.png)
 
-## 3. SQL CRUD (Create, Read, Update, and Delete)
-
-### - Create Tabel Data Warga
+### - Membuat Tabel Data Warga
 
 ![T3](poto/T3.png)
 
-### - Create Tabel Jenis Iuran
+### - Membuat Tabel Jenis Iuran
 
 ![T4](poto/T4.png)
 
-### - Create Tabel Transaksi Iuran
+### - Membuat Tabel Transaksi Iuran
 
 ![T5](poto/T5.png)
 
-### - Create Tabel Laporan Transaksi 
+### - Membuat Tabel Laporan Transaksi
 
 ![T6](poto/T6.png)
 
-### - Read Tabel Data Warga 
+## 3. SQL CRUD (Create, Read, Update, and Delete)
+
+### - Create/Insert dan Read Tabel Data Warga 
 
 ![T7](poto/T7.png)
 
-### - Read Tabel Jenis Iuran
+### - Create/Insert dan Read Tabel Jenis Iuran
 
 ![T8](poto/T8.png)
 
-### - Read Tabel Transaksi Iuran
+### - Create/Insert dan Read Tabel Transaksi Iuran
 
 ![T9](poto/T9.png)
 
-### - Read Tabel Laporan Transaksi
+### - Create/Insert dan Read Tabel Laporan Transaksi
 
 ![T10](poto/T10.png)
 
