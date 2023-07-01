@@ -25,8 +25,7 @@ Nama Anggota :
 ## 2. Membuat DDL (Data Definition Language)
 
 ```
-untuk tampilan code silahkan klik diatas
-
+![P1](poto/P1.png)
 ```
 ## 3. SQL CRUD (Create, Read, Update, and Delete)
 
