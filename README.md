@@ -22,10 +22,11 @@ Nama Anggota :
 
 
 ```
-## 2. Membuat DDL (Data Definition Language)
+## 2. DDL Script (Data Definition Language)
 
+### Membuat Database
 ```
-![P1](poto/P1.png)
+![T1](poto/T1.png)
 ```
 ## 3. SQL CRUD (Create, Read, Update, and Delete)
 
