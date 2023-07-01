@@ -75,7 +75,7 @@ Nama Anggota :
 
 ### - Inner Join
 
-![P13](poto/P13.PNG)
+![P13](poto/P13.png)
 
 ### - Right Join
 
