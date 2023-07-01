@@ -73,6 +73,18 @@ Nama Anggota :
 
 ## 4. SQL Join (joining table)
 
+### - Inner Join
+
+![P13](poto/P13.PNG)
+
+### - Right Join
+
+![P14](poto/P14.png)
+
+### - Left Join
+
+![P15](poto/P15.png)
+
 ```
 sekian laporan pembuatan pengelolaan data KasRT dari kelompok 7, 
 Terima Kasih
