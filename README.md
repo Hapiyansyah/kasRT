@@ -1,15 +1,15 @@
 # Kelompok 7 Basis Data Pengelolaan Data Kas RT
 
 ```
-nama Anggota :
-1. Rizky s.f (312210686) ketua
+Nama Anggota :
+1. Rizky s.f (312210686) Ketua / Sesepuh
 2. M.Hapiyansyah (312210243)
-3. Raja (312210235)
+3. Raja H (312210235)
 4. Faiz (312210223) 
-5. Mizar (312210185)
+5. Ryamizar (312210185)
 
 ```
-## 1.Stuktur ER-D (Entity Relationship - Diagram)
+## 1. Stuktur ER-D (Entity Relationship - Diagram)
 
 ![erd](ER-D/erd.jpg)
 
@@ -22,13 +22,13 @@ nama Anggota :
 
 
 ```
-## 2.Membuat DDL (Data Definition Language)
+## 2. Membuat DDL (Data Definition Language)
 
 ```
 untuk tampilan code silahkan klik diatas
 
 ```
-## 3.SQL CRUD (Create, Read, Update, and Delete)
+## 3. SQL CRUD (Create, Read, Update, and Delete)
 
 ### - Create Tabel Data Warga
 
@@ -70,7 +70,7 @@ untuk tampilan code silahkan klik diatas
 
 ![T12](poto/T12.png)
 
-### 4. SQL Join (joining table)
+## 4. SQL Join (joining table)
 
 ```
 sekian laporan pembuatan pengelolaan data KasRT dari kelompok 7, 
